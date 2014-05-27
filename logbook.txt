@@ -1,0 +1,55 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: akatsuki
+Judul Topik: Biografi Capres dan Cawapres Tahun 2014 - 2019
+Alamat Github: https://github.com/nasutionam/PresentasiCAPRES.git
+Alamat Trello: https://trello.com/b/LrSSAPi9/biografi-capres-dan-cawapres-tahun-2014-2019
+Anggota 1: 
+	Nama: Muhammad Asri Nasution
+	NIM: 121110111
+Anggota 2:
+	Nama: Haditya Nugraha
+	NIM: 121111893	
+Anggota 3:
+	Nama: Rinto Manurung
+	NIM: 121110057
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Muhammad Asri Nasution (121110111)
+
+Sprint 2:
+30/5 - 3/6
+Scrummaster: Haditya Nugraha (121111893)
+
+Sprint 3: 
+4/6 - 7/6
+Scrummaster: Rinto Manurung (121110057)
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Nama Anggota 1): Muhammad Asri Nasution
+1. -
+2. Hari ini saya buat repositori github, trello, logbook.
+3. (tidak ada kendala)
+
+(Nama Anggota 2): Haditya Nugraha
+1. - 
+2. Hari ini saya ngeclone repositorynya, dan push test pertama dan commit.
+3. (tidak ada kendala)
+
+(Nama Anggota 3): Rinto Manurung
+1. - 
+2. Hari ini saya ngeclone repositorinya, dan push test pertama juga commit
+3. (tidak ada kendala).
+(catatan) maaf pak telat untuk 26/5 karena ada kendala dengan tim kami tentang laptop(tidak ada laptop). 
+...
