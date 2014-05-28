@@ -52,4 +52,20 @@ Daily Scrum
 2. Hari ini saya ngeclone repositorinya, dan push test pertama juga commit
 3. (tidak ada kendala).
 (catatan) maaf pak telat untuk 26/5 karena ada kendala dengan tim kami tentang laptop(tidak ada laptop). 
-...
+
+27/5
+Daily Scrum
+(Nama Anggota 1) : Muhammad Asri Nasution
+1. Semalam saya membuat repositori github, trello, logbook.
+2. Hari ini saya membuat "Pendidikan JK" dari sprint backlog "Masa Studi Jk"
+3. (Tidak ada masalah).
+
+(Nama Anggota 2) : Haditya Nugraha
+1. Semalam saya ngeclone repositorinya dan push test pertama juga commit.
+2. Hari ini saya membuat "Karir jk" dari Sprint backlog "Karir jk"
+3. (Tidak ada masalah).
+
+(Nama Anggota 3)
+1. Semalam saya ngeclone repositorinya dan push test pertama juga commit.
+2. Hari ini saya membuat "Kelahiran Jusuf Kalla" dari sprint backlog "Masa kecil jk"
+3. (Tidak ada masalah).
