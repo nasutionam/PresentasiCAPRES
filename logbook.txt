@@ -65,7 +65,24 @@ Daily Scrum
 2. Hari ini saya membuat "Karir jk" dari Sprint backlog "Karir jk"
 3. (Tidak ada masalah).
 
-(Nama Anggota 3)
+(Nama Anggota 3) Rinto Manurung
 1. Semalam saya ngeclone repositorinya dan push test pertama juga commit.
 2. Hari ini saya membuat "Kelahiran Jusuf Kalla" dari sprint backlog "Masa kecil jk"
+3. (Tidak ada masalah).
+
+28/5
+Daily Scrum
+(Nama Anggota 1) : Muhammad Asri Nasution
+1. Semalam saya membuat "Pendidikan JK" dari sprint backlog "masa studi jk"
+2. Hari ini saya membuat perbaikan dari pekerjaan tim saya.
+3. (Tidak ada masalah).
+
+(Nama Anggota 2) : Haditya Nugraha
+1. Semalam saya membuat "Karir jk" dari sprint backlog "karir jk"
+2. Hari ini saya membuat masa kecil jokowi dari sprint backlog masa kecil jokowi.
+3. (Tidak ada masalah).
+
+(Nama Anggota 3) Rinto Manurung
+1. Semalam saya membuat "Kelahiran jusuf kalla" dari sprint backlog "masa kecil jk"
+2. Hari ini saya membuat perbaikan styling dan kerangka jokowi.
 3. (Tidak ada masalah).
