@@ -85,8 +85,6 @@ Daily Scrum
 (Nama Anggota 3) Rinto Manurung
 1. Semalam saya membuat "Kelahiran jusuf kalla" dari sprint backlog "masa kecil jk"
 2. Hari ini saya membuat perbaikan styling dan kerangka jokowi.
-<<<<<<< HEAD
-=======
 3. (Tidak ada masalah).
 
 29/5
@@ -104,5 +102,21 @@ Daily Scrum
 (Nama Anggota 3) Rinto Manurung
 1. Semalam saya membuat perbaikan styling dan kerangka jokowi.
 2. Hari ini saya membuat styling head red.
->>>>>>> da68478c1d8f9a2961761ef0669762d262bf0a84
+3. (Tidak ada masalah).
+
+30/5
+Daily Scrum
+(Nama Anggota 1) : Muhammad Asri Nasution
+1. Semalam saya membuat perbaikan html kelahiran jokowi.
+2. Hari ini saya membuat kerangka prabowo, masa kecil prabowo, dan progress bar.
+3. (Tidak ada masalah).
+
+(Nama Anggota 2) : Haditya Nugraha
+1. Semalam saya menyelesaikan pekerjaan saya.
+2. Hari ini pekerjaan saya telah selesai.
+3. (Tidak ada masalah).
+
+(Nama Anggota 3) Rinto Manurung
+1. Semalam saya membuat styling head red.
+2. Hari ini saya membuat karir jokowi.
 3. (Tidak ada masalah).
