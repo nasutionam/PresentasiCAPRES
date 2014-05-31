@@ -44,7 +44,7 @@ Daily Scrum
 
 (Nama Anggota 2): Haditya Nugraha
 1. - 
-2. Hari ini saya ngeclone repositorynya, dan push test pertama dan commit.
+2. Hari ini saya ngeclone repositorinya, dan push test pertama dan commit.
 3. (tidak ada kendala)
 
 (Nama Anggota 3): Rinto Manurung
@@ -95,7 +95,7 @@ Daily Scrum
 3. (Tidak ada masalah).
 
 (Nama Anggota 2) : Haditya Nugraha
-1. Semalam saya membuat masa kecul jokowi dari sprint backlog masa kecil jokowi
+1. Semalam saya membuat masa kecil jokowi dari sprint backlog masa kecil jokowi
 2. Hari ini pekerjaan saya telah selesai.
 3. (Terjadi conflict yang rumit).
 
@@ -113,10 +113,27 @@ Daily Scrum
 
 (Nama Anggota 2) : Haditya Nugraha
 1. Semalam saya menyelesaikan pekerjaan saya.
-2. Hari ini pekerjaan saya telah selesai.
+2. Hari ini saya mengerjakan pendidikan jokowi dan mengupdate sprint 2 awal.
 3. (Tidak ada masalah).
 
 (Nama Anggota 3) Rinto Manurung
 1. Semalam saya membuat styling head red.
 2. Hari ini saya membuat karir jokowi.
+3. (Tidak ada masalah).
+
+31/5
+Daily Scrum
+(Nama Anggota 1) : Muhammad Asri Nasution
+1. Semalam saya membuat kerangka prabowo, masa kecil prabowo, dan progress bar.
+2. Hari ini saya membuat halaman depan prabowo.
+3. (Tidak ada masalah).
+
+(Nama Anggota 2) : Haditya Nugraha
+1. Semalam saya mengerjakan pendidikan jokowi dan mengupdate sprint 2 awal.
+2. Hari ini saya mengerjakan finishing cover prabowo dan update logbook .
+3. (Tidak ada masalah).
+
+(Nama Anggota 3) Rinto Manurung
+1. Semalam saya membuat karir jokowi.
+2. Hari ini saya membuat karir prabowo.
 3. (Tidak ada masalah).
