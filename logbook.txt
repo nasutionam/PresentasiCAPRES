@@ -137,3 +137,20 @@ Daily Scrum
 1. Semalam saya membuat karir jokowi.
 2. Hari ini saya membuat karir prabowo.
 3. (Tidak ada masalah).
+
+2/6
+Daily Scrum
+(Nama Anggota 1) : Muhammad Asri Nasution
+1. Semalam saya membuat halaman depan prabowo.
+2. Hari ini saya membuat finishing header dan style background and transisi.
+3. (Tidak ada masalah).
+
+(Nama Anggota 2) : Haditya Nugraha
+1. Semalam saya mengerjakan finishing cover prabowo dan update logbook.
+2. Hari ini saya mengerjakan finishing masa kecil prabowo , pendidikan prabowo .
+3. (Tidak ada masalah).
+
+(Nama Anggota 3) Rinto Manurung
+1. Semalam saya membuat karir prabowo.
+2. Hari ini saya membuat header-jk link, header-jokowi link, header-prabowo link.
+3. (Tidak ada masalah).
