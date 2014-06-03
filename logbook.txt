@@ -164,10 +164,10 @@ Daily Scrum
 
 (Nama Anggota 2) : Haditya Nugraha
 1. Semalam saya mengerjakan finishing masa kecil prabowo , pendidikan prabowo, update logbook.
-2. Hari ini saya mengerjakan.
+2. Hari ini saya mengerjakan finishing biografi jusuf kalla.
 3. (Tidak ada masalah).
 
 (Nama Anggota 3) Rinto Manurung
 1. Semalam saya membuat header-jk link, header-jokowi link, header-prabowo link.
-2. Hari ini saya membuat .
+2. Hari ini saya membuat karir prabowo fix rata kiri.
 3. (Tidak ada masalah).
