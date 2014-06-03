@@ -4,6 +4,9 @@
 	border:1px solid teal;
 	border-radius:55px;
 }
+.img-head:hover{
+	border-radius: 6px;
+}
 .emphatic {
 	background: #000;
 }
