@@ -205,3 +205,20 @@ Daily Scrum
 1. Semalam saya membuat kerangka Hatta Rajasa.
 2. Hari ini saya membuat pendidikan hatta rajasa.
 3. (Tidak ada masalah).
+
+6/6/6
+Daily Scrum
+(Nama Anggota 1) : Muhammad Asri Nasution
+1. Semalam saya membuat karir hatta rajasa.
+2. Hari ini saya melakukan perbaikan struktur html.
+3. (Tidak ada masalah).
+
+(Nama Anggota 2) : Haditya Nugraha
+1. Semalam saya mengerjakan tambahan karir prabowo.
+2. Hari ini saya mengerjakan karir hatta rajasa.
+3. (Tidak ada masalah).
+
+(Nama Anggota 3) Rinto Manurung
+1. Semalam saya membuat pendidikan hatta rajasa.
+2. Hari ini saya melakukan perbaikan karir hatta rajasa.
+3. (Tidak ada masalah).
