@@ -7,6 +7,9 @@
 .img-head:hover{
 	border-radius: 6px;
 }
+.white-color {
+	color: #FFF;
+}
 .emphatic {
 	background: #000;
 }
